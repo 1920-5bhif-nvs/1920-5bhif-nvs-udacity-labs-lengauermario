@@ -27,7 +27,7 @@ import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.LifecycleObserver
 import com.example.android.dessertpusher.databinding.ActivityMainBinding
 import timber.log.Timber
-
+  
 /** onSaveInstanceState Bundle Keys **/
 const val KEY_REVENUE = "revenue_key"
 const val KEY_DESSERT_SOLD = "dessert_sold_key"

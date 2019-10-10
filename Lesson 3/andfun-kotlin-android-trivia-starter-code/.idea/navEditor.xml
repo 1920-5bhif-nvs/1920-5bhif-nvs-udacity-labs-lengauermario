@@ -17,6 +17,20 @@
                             <option name="y" value="43" />
                           </Point>
                         </option>
+                        <option name="myPositions">
+                          <map>
+                            <entry key="action_gameFragment_to_gameOverFragment2">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                            <entry key="action_gameFragment_to_gameWonFragment">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                          </map>
+                        </option>
                       </LayoutPositions>
                     </value>
                   </entry>
@@ -25,8 +39,8 @@
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="501" />
-                            <option name="y" value="188" />
+                            <option name="x" value="478" />
+                            <option name="y" value="-96" />
                           </Point>
                         </option>
                       </LayoutPositions>
@@ -37,8 +51,8 @@
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="478" />
-                            <option name="y" value="-159" />
+                            <option name="x" value="508" />
+                            <option name="y" value="234" />
                           </Point>
                         </option>
                       </LayoutPositions>
